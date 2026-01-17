@@ -12,13 +12,31 @@ A third-person **racing game prototype** developed using **Unreal Engine**, focu
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-17 202705.png" width="45%" />
-  <img src="screenshots/Screenshot 2026-01-17 202608.png" width="45%" />
+  <img src="screenshots/Screenshot 2026-01-17 202705.png" width="45%" /><br/>
+  <em>Race start – third-person camera view</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-17 202419.png" width="45%" />
-  <img src="screenshots/Screenshot 2026-01-17 202238.png" width="45%" />
+  <img src="screenshots/Screenshot 2026-01-17 202608.png" width="45%" /><br/>
+  <em>Race start – third-person camera view</em>
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-17 202705.png" width="45%" /><br/>
+  <em>Race start – third-person camera view</em>
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-17 202419.png" width="45%" /><br/>
+  <em>Chaning Car color and texture</em>
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-17 202238.png" width="45%" /><br/>
+  <em>Drift and Tire Marks</em>
+</p>
+
+
+<p align="center">
+  
+  
 </p>
 
 
