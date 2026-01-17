@@ -18,7 +18,7 @@ A third-person **racing game prototype** developed using **Unreal Engine**, focu
 
 <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202608.png" width="45%" /><br/>
-  <em>Chagning Car color and texture</em>
+  <em>Changing Car color and texture</em>
 </p>
 <!-- <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202705.png" width="45%" /><br/>
