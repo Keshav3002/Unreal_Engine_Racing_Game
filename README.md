@@ -13,30 +13,24 @@ A third-person **racing game prototype** developed using **Unreal Engine**, focu
 
 <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202705.png" width="45%" /><br/>
-  <em>Race start – third-person camera view</em>
+  <em>Race start – third-person camera view - Racing against AI car</em>
 </p>
 
 <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202608.png" width="45%" /><br/>
-  <em>Race start – third-person camera view</em>
+  <em>Chagning Car color and texture</em>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202705.png" width="45%" /><br/>
   <em>Race start – third-person camera view</em>
-</p>
+</p> -->
 <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202419.png" width="45%" /><br/>
-  <em>Chaning Car color and texture</em>
+  <em>First Person Camera View</em>
 </p>
 <p align="center">
   <img src="screenshots/Screenshot 2026-01-17 202238.png" width="45%" /><br/>
   <em>Drift and Tire Marks</em>
-</p>
-
-
-<p align="center">
-  
-  
 </p>
 
 
@@ -64,7 +58,7 @@ The primary focus of the project was to design **realistic drifting mechanics**,
 - Blueprint Visual Scripting
 - Chaos Physics System
 - Niagara / Decal-based VFX
-- Third-Person Camera System
+- First-Person and Third-Person Camera System
 
 ---
 
