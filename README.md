@@ -9,6 +9,13 @@ A third-person **racing game prototype** developed using **Unreal Engine**, focu
 (https://github.com/Keshav3002/Unreal_Engine_Racing_Game/releases/download/v1.0/CS7GV6_Group6_Demo.mp4)
 
 
+## 🖼️ Screenshots
+
+![Gameplay Screenshot 1](screenshots/screenshot_1.png)
+![Gameplay Screenshot 2](screenshots/screenshot_2.png)
+![Drifting Screenshot](screenshots/drift_corner.png)
+
+
 ---
 
 ## 🧠 Project Overview
